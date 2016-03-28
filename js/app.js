@@ -1,6 +1,6 @@
 "use strict";
 
 (function(){
-  Angular
+  angular
   .module("compliments", [])
 })();
